@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    font-size: 50px;
+    position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    left: 50%;
+    transform: translateX(-50%);
+    color: rgb(0, 68, 195);
+    top: 3%;
+    text-shadow: 0 2px 5px rgba(0,0,0, .3);
+}
